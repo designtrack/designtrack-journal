@@ -1,27 +1,21 @@
 ---
 layout: default
 ---
-<article class="row" itemscope itemtype="http://schema.org/BlogPosting">
+<article itemscope itemtype="http://schema.org/Blogpageing">
 
-  <header class="col-12">
-    <h1 itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="lead">
-      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {{ page.date | date: date_format }}
-      </time>
-      {%- if page.author -%}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
-      {%- endif -%}</p>
-  </header>
-
-  <div class="col-md-8 mx-auto" itemprop="articleBody">
-    {{ content }}
-  </div>
-
-  {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-  {%- endif -%}
-
-  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+    <header>
+      <a class="back" href="/">&larr; Back</a>
+      <h2 itemprop="name headline">{{ page.title | escape }}</h2>
+      <h3>
+        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+          {%- assign date_format = site.minima.date_format | default: "%-d %B %Y" -%}
+          {{ page.date | date: date_format }}
+        </time>
+      </h3>
+    </header>
+  
+    <div itemprop="articleBody">
+      {{ page.content }}
+    </div>
+  
 </article>

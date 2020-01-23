@@ -5,7 +5,7 @@ title: Homepage
 ---
 {% for post in site.posts %}
 <article>
-  <header class="col-12">
+  <header>
     <h2 itemprop="name headline"><a href="{{ post.url }}">{{ post.title | escape }}</a></h2>
     <h3>
       <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
