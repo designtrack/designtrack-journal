@@ -1,0 +1,214 @@
+/*
+
+This is a very rough, low fidelity stylesheet. If you’re looking at this I’d suggest using your time more productively elsewhere. This – like the HTML prototype – is a building site, it’s certainly not production-ready code.
+
+*/
+
+/*
+
+Colours
+
+*/
+
+:root {
+    --red: #C30;
+    --yellow: yellow;
+    --blue: blue;
+}
+
+/*
+
+Reset 
+
+*/
+
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+ul[class],
+ol[class],
+li,
+figure,
+figcaption,
+blockquote,
+dl,
+dd {
+    margin: 0;
+}
+
+article > * + * {
+    margin-top: 1em;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+
+/* 
+
+Layout 
+
+*/
+
+body {
+    min-height: 100vh;
+    scroll-behavior: smooth;
+    text-rendering: optimizeSpeed;
+    line-height: 1.4;
+}
+
+.wrapper {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 650px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+article {
+    margin: 40px 0 60px;
+}
+
+/*
+
+Typography
+
+*/
+
+p {
+    margin-bottom: 1em;
+}
+
+time {
+    color: #666;
+}
+
+
+/*
+
+Simon Collison's live redesign bar… Thank you, Simon!
+
+*/
+
+.banner {
+    background: var(--red);
+    color: #FFF;
+    padding: 5px 0;
+    text-align: center;
+}
+
+.banner p {
+    color: #FFF;
+    font-family: Helvetica;
+    font-size: 15px;
+    margin: 0;
+    padding: 7px 12px;
+    line-height: 150%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.banner p a {
+    color: #ffffff;
+}
+
+
+/*
+
+Notes: This is so I can remove the inline CSS for my highlighted notes in yellow.
+
+*/
+
+.highlight {
+    background: var(--yellow);
+}
+
+.smallprint {
+    color: var(--red);
+}
+
+/*
+
+Rough button for CTAs. This is a mess visually, it's just intended to show that CTAs are needed per page.
+
+*/
+
+button {
+    display: inline-block;
+    background: var(--red);
+    color: white;
+    border: none;
+    padding: 1rem 2rem;
+    margin: 0;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 0.05rem;
+    cursor: pointer;
+    text-align: center;
+    transition: background 250ms ease-in-out,
+        transform 150ms ease;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+
+button:hover,
+button:focus {
+    background: var(--blue);
+    ;
+}
+
+button:active {
+    transform: scale(0.99);
+}
+
+
+/*
+
+Divs.
+
+*/
+
+.contentbox {
+    max-width: 98%;
+    border-radius: 4px;
+    margin-bottom: 40px;
+    background: #E4E4E4;
+}
+
+.project {
+    padding: 0 20px 10px 20px;
+}
+
+/*
+
+Images
+
+*/
+
+img {
+    padding: 4px;
+    border: 1px solid #CCC;
+    max-width: 96%;
+}
+
+.mastodon {
+    text-align: center;
+    text-decoration: none;
+    border: 1px solid #FFF;
+}
+
+
+/*
+
+Definition List
+
+*/
+
+dt {
+    font-weight: bold;
+}
