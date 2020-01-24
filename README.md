@@ -3,7 +3,7 @@
 * Date: __January 2020__
 * Build: __[Little Thunder Co.](https://littlethunder.co)__
 * Contact: __tim@littlethunder.co__
-* Live Site:
+* Live Site: https://designtrackjournal.netlify.com
 
 Built With
 ----------
