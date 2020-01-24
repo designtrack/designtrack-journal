@@ -6,16 +6,24 @@ layout: default
     <header>
       <a class="back" href="/">&larr; Back</a>
       <h2 itemprop="name headline">{{ page.title | escape }}</h2>
-      <h3>
+      <h4 itemprop="author time">
+        <a href="{{ site.author.twitter }}">{{ site.author.name }}</a>
         <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
           {%- assign date_format = site.minima.date_format | default: "%-d %B %Y" -%}
           {{ page.date | date: date_format }}
         </time>
-      </h3>
+      </h4>
     </header>
   
     <div itemprop="articleBody">
       {{ page.content }}
     </div>
+
+    <footer>
+      <small>[designtrack] · {{ page.date | date: "%s"}}</small>
+    </footer>
   
 </article>
+
+{%- include author.html -%}
+{%- include subscribe.html -%}
