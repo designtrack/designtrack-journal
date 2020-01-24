@@ -13,5 +13,3 @@ fields:
 - type: datetime
   name: date
   label: date
-pages:
-- _posts/2020-01-24-test-1542.md
