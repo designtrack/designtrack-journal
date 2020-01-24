@@ -19,3 +19,9 @@ I’ll be designing it [a la Jonnie Hallman’s site][03] and Frank Chimero’s 
 ### !important
 
 This will look totally different to designtrack.org as it’s a [designtrack × Propel][05] journal about my time on the Propel programme.
+
+[01]: https://dev.mrmurphy.com/redesign/
+[02]: https://dev.mrmurphy.com/css/temporary.css
+[03]: https://destroytoday.com/blog/footnotes
+[04]: https://frankchimero.com/blog/2019/redesign/
+[05]: https://propel.designtrack.org
