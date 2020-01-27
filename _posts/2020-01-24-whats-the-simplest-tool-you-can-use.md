@@ -1,12 +1,12 @@
 ---
 layout: post
 title: What’s the simplest tool you can use?
-date:  2020-01-24 11:46:31 +0000
+date: 2020-01-24T11:46:31.000+00:00
+
 ---
+![The Simplest Tool](/uploads/simplest-tool.png)
 
-![Madlug](http://tinybooks.org/assets/design-in-tech-report-2017.png)
-
-Ask yourself: What’s the simplest tool you can use? **Use that and don’t overcomplicate things.** This is one of the most important lessons I’ve learned during my first fortnight on [Propel][01], in particular, during my office hours sessions with the mentors.
+Ask yourself: What’s the simplest tool you can use? **Use that and don’t overcomplicate things.** This is one of the most important lessons I’ve learned during my first fortnight on [Propel](https://igniteni.com), in particular, during my office hours sessions with the mentors.
 
 As a designer, I’m used to: sketching a page; developing wireframes and userflows; creating high-fidelity mockups; building a prototype; and, finally, coding everything up in HTML, CSS and JavaScript.
 
@@ -18,12 +18,12 @@ As I start to develop designtrack, **focusing on customers and pricing models**,
 
 It’s incredible, there are a multitude of tools **with very shallow learning curves**, that you can use to **publish content and test it on your audience**. The following tools – which are either free to use or have free, unpaid tiers – have been lifesavers for me.
 
-+ [Simplenote][02]
-+ [Landen][03]
-+ [Gumroad][04]
-+ …
+* [Simplenote](https://simplenote.com)
+* [Landen](https://www.landen.co)
+* [Gumroad](https://gumroad.com)
+* …
 
-I built the following (unfinished) [landing page][05] using Landen during Monday’s landing pages workshop. It’s good enough to trial my messaging and, at this stage, **good enough is all that matters**.
+I built the following (unfinished) [landing page](https://gi0iuwfan21u.landen.co) using Landen during Monday’s landing pages workshop. It’s good enough to trial my messaging and, at this stage, **good enough is all that matters**.
 
 Being on Propel is encouraging me to rethink my processes, which has taught me a great deal. When you’re **at the beginning of your startup journey** it’s important to **shift your focus from ‘finished’ to ‘fast’**. Fast is what matters.
 
@@ -35,7 +35,7 @@ http://tinybooks.org/journal/2017/03/22/selling-hope
 
 There’s a Unix timestamp, which I can add by hand, but presumably I’ll need this in the YAML front matter?
 
--->
+\-->
 
 <!--
 
@@ -45,15 +45,6 @@ https://designtrack.org/newsletter/
 
 Presumably we include this content – the author and signup form – using an include? (Not sure if your fancy system allows includes?)
 
--->
-
+\-->
 
 <!-- Links -->
-
-[00]: https://twitter.com/fehler
-[01]: https://igniteni.com
-[02]: https://simplenote.com
-[03]: https://www.landen.co
-[04]: https://gumroad.com
-[05]: https://gi0iuwfan21u.landen.co
-[06]: https://designtrack.org
