@@ -4,7 +4,7 @@ title: Familiarisation
 date: 2020-01-27 17:45:00 +0000
 
 ---
-!\[The Simplest Tool\](/uploads/squash.jpg)
+![Squash](/uploads/squash.jpg)
 
 Forestry is lovely, but like any new system, it takes a little getting used to. I'm getting used to finding my way around and writing as I do.
 
