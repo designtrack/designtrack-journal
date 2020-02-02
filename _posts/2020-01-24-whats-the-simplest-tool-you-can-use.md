@@ -6,7 +6,7 @@ date: 2020-01-24T11:46:31.000+00:00
 ---
 ![The Simplest Tool](/uploads/simplest-tool.png)
 
-Ask yourself: What’s the simplest tool you can use? **Use that and don’t overcomplicate things.** This is one of the most important lessons I’ve learned during my first fortnight on [Propel](https://igniteni.com), in particular, during my office hours sessions with the mentors.
+Ask yourself: What’s the simplest tool you can use? **Use that and don’t overcomplicate things.** This is one of the most important lessons I’ve learned during my first fortnight on [Propel][01], in particular, during my office hours sessions with the mentors.
 
 As a designer, I’m used to: sketching a page; developing wireframes and userflows; creating high-fidelity mockups; building a prototype; and, finally, coding everything up in HTML, CSS and JavaScript.
 
@@ -23,28 +23,15 @@ It’s incredible, there are a multitude of tools **with very shallow learning c
 * [Gumroad](https://gumroad.com)
 * …
 
-I built the following (unfinished) [landing page](https://gi0iuwfan21u.landen.co) using Landen during Monday’s landing pages workshop. It’s good enough to trial my messaging and, at this stage, **good enough is all that matters**.
+I built the following (unfinished) [landing page][02] using Landen during Monday’s landing pages workshop. It’s good enough to trial my messaging and, at this stage, **good enough is all that matters**.
 
 Being on Propel is encouraging me to rethink my processes, which has taught me a great deal. When you’re **at the beginning of your startup journey** it’s important to **shift your focus from ‘finished’ to ‘fast’**. Fast is what matters.
 
-<!--
+—Christopher, [@fehler][03]
 
-The content below – in the <small> element – is metadata at the bottom of each post, like this:
-
-http://tinybooks.org/journal/2017/03/22/selling-hope
-
-There’s a Unix timestamp, which I can add by hand, but presumably I’ll need this in the YAML front matter?
-
-\-->
-
-<!--
-
-The content below will be on every post so I can drive signups to the designtrack mailing list. I need to include a signup form below the ‘About the author…’ section. The form is on this page:
-
-https://designtrack.org/newsletter/
-
-Presumably we include this content – the author and signup form – using an include? (Not sure if your fancy system allows includes?)
-
-\-->
 
 <!-- Links -->
+
+[01]: https://igniteni.com
+[02]: https://gi0iuwfan21u.landen.co
+[03]: https://twitter.com/fehler
