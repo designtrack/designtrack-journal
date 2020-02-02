@@ -4,9 +4,7 @@ title: Hello, World!
 date: 2020-01-12 19:04:00 +0000
 
 ---
-
-
-**12 January, 2020**
+![Hello, World!](/uploads/001-hello-world.png)
 
 It’s been a time-honoured tradition of mine to launch any new journal with a short [‘Hello, World!’][01] post. In that post, I set out my intentions and outline what I hope to achieve through this particular body of writing.
 
