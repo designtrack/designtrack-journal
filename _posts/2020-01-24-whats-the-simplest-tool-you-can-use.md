@@ -4,11 +4,11 @@ title: What’s the simplest tool you can use?
 date: 2020-01-24T11:46:31.000+00:00
 
 ---
-![The Simplest Tool](/uploads/simplest-tool.png)
+![The Simplest Tool](/uploads/005-whats-the-simplest-tool-you-can-use.png)
 
-Ask yourself: What’s the simplest tool you can use? **Use that and don’t overcomplicate things.** This is one of the most important lessons I’ve learned during my first fortnight on [Propel][01], in particular, during my office hours sessions with the mentors.
+Ask yourself: What’s the simplest tool you can use? **Use that and don’t overcomplicate things.** This is one of the most important lessons I’ve learned during my first fortnight on [Propel](https://igniteni.com), in particular, during my office hours sessions with the mentors.
 
-As a designer, I’m used to: sketching a page; developing wireframes and userflows; creating high-fidelity mockups; building a prototype; and, finally, coding everything up in HTML, CSS and JavaScript.
+As a designer, I’m used to: sketching a page; developing wireframes and userflows; creating high-fidelity mockups; building a prototype; and, finally, coding everything up in HTML, CSS and JavaScript. (Or, more accurately, working with a third party on the code.)
 
 This is a time-consuming process – **too time-consuming** – and it doesn’t help me to test my thinking or my assumptions. As X puts it in her book, XYZ:
 
@@ -23,15 +23,10 @@ It’s incredible, there are a multitude of tools **with very shallow learning c
 * [Gumroad](https://gumroad.com)
 * …
 
-I built the following (unfinished) [landing page][02] using Landen during Monday’s landing pages workshop. It’s good enough to trial my messaging and, at this stage, **good enough is all that matters**.
+I built the following (unfinished) [landing page](https://gi0iuwfan21u.landen.co) using Landen during Monday’s landing pages workshop. It’s good enough to trial my messaging and, at this stage, **good enough is all that matters**.
 
 Being on Propel is encouraging me to rethink my processes, which has taught me a great deal. When you’re **at the beginning of your startup journey** it’s important to **shift your focus from ‘finished’ to ‘fast’**. Fast is what matters.
 
-—Christopher, [@fehler][03]
-
+—Christopher, [@fehler](https://twitter.com/fehler)
 
 <!-- Links -->
-
-[01]: https://igniteni.com
-[02]: https://gi0iuwfan21u.landen.co
-[03]: https://twitter.com/fehler
