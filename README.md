@@ -1,6 +1,9 @@
-# designtrack Journal
+---
 
-* Date: __January 2020__
+---
+# designtrack × Propel Journal
+
+* Date: __January, 2020__
 * Build: __[Little Thunder Co.](https://littlethunder.co)__
 * Contact: __tim@littlethunder.co__
 * Live Site: https://designtrackjournal.netlify.com
