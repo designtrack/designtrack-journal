@@ -4,6 +4,8 @@ title: The Rollercoaster
 date: 2020-01-29T10:04:00.000+00:00
 
 ---
+![Placeholder](/uploads/journal-placeholder.png)
+
 This morning, I woke to an inbox full of emails. There was one, in particular, I was looking for.
 
 Scrolling through the list, I found it.
