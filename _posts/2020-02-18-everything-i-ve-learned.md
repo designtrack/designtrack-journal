@@ -4,6 +4,8 @@ title: Everything I've Learned
 date: 2020-02-18 14:54:00 +0000
 
 ---
+![Placeholder](/uploads/journal-placeholder.png)
+
 One of the benefits of being on Propel is that the programme features access to a vast array of ‘perks’. One of these perks is [$1,000 in credit towards Notion’s Team Plan](https://www.notion.so/startups), which I’m delighted to have just received.
 
 A number of my final year students have been using Notion – for note-taking and project management – and I’ve been meaning to put it through its paces. I now have no excuse.
