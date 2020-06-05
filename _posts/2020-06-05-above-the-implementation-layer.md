@@ -34,4 +34,4 @@ Lastly, as if all of the above wasn’t enough, you need to know how to tell sto
 
 All of the above – everything **above** the implementation layer – is what we’re teaching at The School of Design.
 
-If you'd like to know more, our next cohort starts in August
+If you'd like to know more, our next cohort starts in September. Get in touch and we'll cover what we teach.
