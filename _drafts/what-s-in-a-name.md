@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s in a name?
-date: 2020-06-04 00:00:00 +0000
+date: 2020-06-04 13:52:00 +0000
 
 ---
 In addition to [**The School of Design**][01] (which used to be called **designtrack**) **I’m working on a series of digital products**. This is part of a strategy to diversify my income streams in order to build an [antifragile][02] business.
